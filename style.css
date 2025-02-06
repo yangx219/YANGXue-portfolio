@@ -245,6 +245,20 @@ body {
     font-size: 20px;
     font-family: 'Times New Roman', Times, serif;
   }
+
+  .delete-btn {
+    margin-left: 10px;
+    padding: 5px 10px;
+    border: none;
+    background-color: #ff4d4d;
+    color: white;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .delete-btn:hover {
+    background-color: #ff0000;
+  }
   
   /* Scroll to Top Button */
   
