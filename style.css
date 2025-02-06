@@ -104,8 +104,11 @@ body {
   #about-me p {
     font-size: 25px;
     color: rgb(128, 128, 128);
-    margin-top: -1cm;
+    margin-top: 1rem;
+    margin-bottom: 1rem; /* 调整这个值来设置段落间的间距 */
+    line-height: 1.5; /* 增加行间距以提高可读性 */
   }
+  
   
   .profile_image {
     width: 550px;
